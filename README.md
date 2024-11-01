@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I am passionate about continuous learning and always look for new opportunities to improve my skills. I completed my Advanced Technical Degree in Web Application Development (DAW) in 2023 and currently work as a programmer, where I apply and develop my knowledge daily. <br><br>I am also a sports enthusiast, which has taught me discipline, perseverance, and teamwork—values I bring to my professional life.</p>
+<p align="left">I am passionate about continuous learning and always look for new opportunities to improve my skills. I completed my Advanced Technical Degree in Web Application Development (DAW) in 2023 and currently work as a programmer, where I apply and develop my knowledge daily.</p>
 
 <br clear="both">
 
@@ -39,8 +39,6 @@
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
